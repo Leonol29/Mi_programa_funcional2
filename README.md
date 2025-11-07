@@ -37,7 +37,5 @@ El resultado teórico es ≈ 16.67%, y el programa lo aproxima mediante simulaci
 También incluye un ejemplo clásico del método de Monte Carlo:  
 genera puntos aleatorios en un cuadrado y estima π calculando cuántos caen dentro del círculo unitario.
 
----
 
-## 🧩 Estructura del proyecto
 
